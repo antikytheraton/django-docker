@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../src/myProject/settings.py	/^ALLOWED_HOSTS = ['web']$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../src/myProject/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:97
+BASE_DIR	../src/myProject/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../src/myProject/settings.py	/^DATABASES = {  $/;"	kind:variable	line:83
+DEBUG	../src/myProject/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../src/myProject/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../src/myProject/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:116
+MIDDLEWARE	../src/myProject/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../src/myProject/settings.py	/^ROOT_URLCONF = 'myProject.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../src/myProject/settings.py	/^SECRET_KEY = 'e8-(+hkmua4b^a4_c3f13vsrrk*4f^b9@*6t#5-9#@xec4vro6'$/;"	kind:variable	line:23
+STATIC_URL	../src/myProject/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:130
+TEMPLATES	../src/myProject/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../src/myProject/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:118
+USE_I18N	../src/myProject/settings.py	/^USE_I18N = True$/;"	kind:variable	line:120
+USE_L10N	../src/myProject/settings.py	/^USE_L10N = True$/;"	kind:variable	line:122
+USE_TZ	../src/myProject/settings.py	/^USE_TZ = True$/;"	kind:variable	line:124
+WSGI_APPLICATION	../src/myProject/settings.py	/^WSGI_APPLICATION = 'myProject.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../src/myProject/__init__.py	1;"	kind:file	line:1
+admin	../src/myProject/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+application	../src/myProject/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+django	../src/manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../src/manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../src/myProject/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+manage.py	../src/manage.py	1;"	kind:file	line:1
+os	../src/manage.py	/^import os$/;"	kind:namespace	line:2
+os	../src/myProject/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../src/myProject/wsgi.py	/^import os$/;"	kind:namespace	line:10
+settings.py	../src/myProject/settings.py	1;"	kind:file	line:1
+sys	../src/manage.py	/^import sys$/;"	kind:namespace	line:3
+url	../src/myProject/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:16
+urlpatterns	../src/myProject/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../src/myProject/urls.py	1;"	kind:file	line:1
+wsgi.py	../src/myProject/wsgi.py	1;"	kind:file	line:1
